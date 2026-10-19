@@ -12,3 +12,4 @@
 - [Data Governance](https://docs.epilot.io/docs/data-governance/overview) — Data lifecycle policies and auditable deletions
 - [Journeys](https://docs.epilot.io/journey-sdk-playground/index.html) — Embeddable forms and multi-step flows
 - [Messaging](https://docs.epilot.io/docs/messaging/message-api) — Email, threads, and inbox management
+- [Open source](https://opensource.epilot.cloud) — What we ship, what we contribute to and who builds it
